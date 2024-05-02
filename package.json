@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-A1b2C3d4/",
+    "build": "vite build --base=/102_js_Cassel444/",
     "preview": "vite preview"
   },
   "devDependencies": {
